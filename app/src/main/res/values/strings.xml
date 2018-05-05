@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gallery</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="main_app_folder">YandexGallery</string>
+    <string name="exit_from_yandex_menu_item">Exit From Yandex</string>
+    <string name="refresh_menu_item">Refresh</string>
+    <string name="about_menu_item">About</string>
+    <string name="about_app">The Gallery application allows you to download and view pictures from Yandex Disk. The program was created to participate in the School of Mobile Development</string>
+</resources>

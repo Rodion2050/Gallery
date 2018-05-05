@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/exitFromYandex"
+    android:title="@string/exit_from_yandex_menu_item"
+    app:showAsAction="never" />
+    <item android:id="@+id/refreshItem"
+        android:title="@string/refresh_menu_item"
+        app:showAsAction="ifRoom" />
+    <item android:id="@+id/aboutAppItem"
+        android:title="@string/about_menu_item"
+        app:showAsAction="never"/>
+</menu>

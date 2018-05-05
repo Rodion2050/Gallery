@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Галерея</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="main_app_folder">YandexGallery</string>
+    <string name="exit_from_yandex_menu_item">Выйти из Яндекс Диска</string>
+    <string name="refresh_menu_item">Обновить</string>
+    <string name="about_menu_item">О приложении</string>
+    <string name="about_app">Приложение Gallery позволяет скачивать и просматривать картинки с Яндекс Диска. Программа была создана для участия в Школе Мобильной Разработки</string>
+</resources>
